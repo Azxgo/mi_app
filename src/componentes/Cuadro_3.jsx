@@ -1,5 +1,5 @@
 import React from "react";
-
+import '../estilos/cuadro.css';
 
 function Cuadro_3(){
     return(
